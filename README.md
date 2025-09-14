@@ -360,9 +360,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **[Shadcn](https://github.com/shadcn)** - For the incredible component library
-- **[Radix UI](https://www.radix-ui.com)** - For accessible, unstyled components
-- **[Tailwind CSS](https://tailwindcss.com)** - For the utility-first CSS framework
-- **[Vite Team](https://vitejs.dev)** - For the blazing fast build tool
-- **[React Team](https://react.dev)** - For the amazing framework
-- **[Tabler Icons](https://tabler.io)** - For beautiful, consistent icons
+- [Shadcn](https://github.com/shadcn)
+- [Radix UI](https://www.radix-ui.com)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Vite Team](https://vitejs.dev)
+- [React Team](https://react.dev)
+- [Tabler Icons](https://tabler.io)
